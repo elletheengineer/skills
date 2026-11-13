@@ -16,6 +16,7 @@ Each skill's README has an example prompt and links to the post it comes from.
 | Skill | What it helps you do | Post |
 |---|---|---|
 | [explain-it-back-machine-learning](explain-it-back-machine-learning/) | Explain how machine learning works in your own words; it names what's missing and asks one question per gap until you've got it | How AI learns: by being wrong, a little less each time (X) |
+| [plan-your-plan](plan-your-plan/) | Plan a job step by step: decide what stays with you, what goes in plain code, where a model helps and where (if anywhere) an agent earns its place, with a stop, a fence and a check on any agent step | Agent stacks or the old ways for creative flows? A case for both (X) |
 
 ## Licence
 MIT. Use them, change them, share them; keep the credit. See [LICENSE](LICENSE).
